@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 So how does your Moon tacos taste like?
 Seriously i'm super curious about it.
